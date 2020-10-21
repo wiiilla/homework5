@@ -94,6 +94,7 @@ footer {
 	display: flex;
 	flex-flow: row wrap;
 	align-content: center;
+	align-items: center;
 	justify-content: center;
 }
 
